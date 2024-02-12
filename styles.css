@@ -1,0 +1,66 @@
+body{
+    text-align: center;
+    background-image: url("./images/backgroundImage.jpg");
+    background-color: black;
+}
+
+h1{
+    font-size: 5rem;
+    background-color: #E8E4E4;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.a{
+    background-image: url("./images/tom1.png");
+}
+
+.b{
+    background-image: url("./images/tom2.png");
+}
+
+.c{
+    background-image: url("./images/tom3.png");
+}
+
+.d{
+    background-image: url("./images/tom4.png");
+}
+
+.e{
+    background-image: url("./images/snare.png");
+}
+
+.f{
+    background-image: url("./images/crash.png");
+}
+
+.g{
+    background-image: url("./images/kick.png");
+}
+
+footer{
+    margin-top: 2rem;
+    color: black;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+.set{
+    margin: 10% auto;
+}
+
+.drum{
+    font-size: 5rem;
+    margin-right: 5px;
+    margin-bottom: 5px;
+    height: 150px;
+    width: 150px;
+    text-align: center;
+    font-weight: bold;
+    outline: none;
+    border-radius: 10%;
+    color: #DA0463;
+    background-color: white;
+    line-height: 2px;
+    display: inline-block;
+    border: 10px solid #404B69;
+}
